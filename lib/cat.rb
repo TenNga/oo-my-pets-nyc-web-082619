@@ -9,4 +9,6 @@ class Cat
     @mood = "nervous"
   end
   
+  def self.
+  
 end
