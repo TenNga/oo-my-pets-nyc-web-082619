@@ -24,6 +24,10 @@ class Owner
     end
   end
   
+  def buy_cat
+    
+  end
+  
   def self.all
     @@all
   end
