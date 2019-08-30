@@ -12,6 +12,10 @@ class Owner
     "I am a #{self.species}."
   end
   
+  def cats 
+    
+  end
+  
   def self.all
     @@all
   end
@@ -23,5 +27,6 @@ class Owner
   def self.reset_all
     self.all.clear
   end
+  
   
 end
