@@ -5,4 +5,8 @@ class Owner
     @species = species
   end
   
+  def say_species
+    "I am #{self.species}."
+  end
+  
 end
