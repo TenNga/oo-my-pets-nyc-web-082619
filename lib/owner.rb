@@ -3,4 +3,8 @@ class Owner
   def initialize (name)
     @name = name 
   end
+  
+  def species
+    
+  end
 end
